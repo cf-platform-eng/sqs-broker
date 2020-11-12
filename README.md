@@ -1,3 +1,5 @@
+# sqs-broker is no longer actively maintained by VMware.
+
 # AWS SQS Service Broker [![Build Status](https://travis-ci.org/cf-platform-eng/sqs-broker.png)](https://travis-ci.org/cf-platform-eng/sqs-broker)
 
 This is an **experimental** [Cloud Foundry Service Broker](https://docs.cloudfoundry.org/services/overview.html) for [Amazon Simple Queue Service (SQS)](https://aws.amazon.com/sqs/).
